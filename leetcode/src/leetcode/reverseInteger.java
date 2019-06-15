@@ -30,6 +30,6 @@ public class reverseInteger {
     }
 	
 	public static void main(String[] args) {
-		System.out.print(-1 / 10);
+		System.out.print(5/2);
 	}
 }
