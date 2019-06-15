@@ -1,6 +1,7 @@
 package leetcode;
 
 public class reverseInteger_pop {
+	// time complexity is O(logx) cause there are around logn digit in x. 
 	public int reverse(int x) {
 		int rev = 0; 
         while(x!=0){
